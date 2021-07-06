@@ -102,4 +102,3 @@ $(document).ready(function() {
     $("#event4").val(localStorage.getItem("event4"));
     $("#event5").val(localStorage.getItem("event5"));
 });
-
